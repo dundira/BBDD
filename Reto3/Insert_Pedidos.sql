@@ -1,0 +1,16 @@
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (2, 6, 1, 1, 1);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (3, 7, 1, 3, 1);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (4, 7, 2, 5, 1);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (5, 10, 2, 6, 1);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (6, 11, 3, 1, 2);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (7, 12, 3, 6, 2);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (8, 12, 4, 8, 2);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (9, 12, 4, 9, 2);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (10, 13, 5, 5, 3);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (11, 14, 5, 7, 3);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (12, 15, 6, 2, 3);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (13, 15, 6, 1, 3);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (14, 17, 7, 5, 1);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (15, 19, 7, 1, 1);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (19, 20, 8, 2, 1);
+INSERT INTO pedidos (idPedidos, Ped_IDCliente, Ped_ID_Producto, Ped_Cantidad, Ped_Estado) VALUES (20, 21, 8, 3, 1);
